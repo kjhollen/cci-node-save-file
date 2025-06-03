@@ -1,3 +1,6 @@
+savedImages/*.png
+savedImages/*.jpg
+
 # Logs
 logs
 *.log
